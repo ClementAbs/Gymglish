@@ -1,0 +1,41 @@
+/* Styles go here */
+
+#b1 {
+  
+  width:5px;
+  height: 5px;
+  left:10px;
+  position: absolute;
+  
+  
+  }
+
+#b2 {
+  
+  width:5px;
+  height: 5px;
+  left:25%;
+    position: absolute;
+  
+  }
+  
+  
+#b3 {
+  
+  width:5px;
+  height: 5px;
+  left:50%;
+    position: absolute;
+  }
+  
+  
+#b4 {
+  
+  width:5px;
+  height: 5px;
+  left:75%;
+    position: absolute;
+  
+  }
+
+  
